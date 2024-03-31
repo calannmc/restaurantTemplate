@@ -143,9 +143,9 @@ body {
 }
 
 
-  .jumbotron img {
+.container  .jumbotron img {
     width: 100%;
-    height: auto;
+    height: 600px;
     object-fit: cover;
     object-position: center;
 
@@ -375,6 +375,16 @@ h3.menu-item-title {
         width: 360px;
         margin: 0 auto 15px;
     }
+	
+  .menu-item-photo {
+    margin-right: auto;
+  }
+  .menu-item-tile .menu-item-price {
+    text-align: center;
+  }
+  .menu-item-description {
+    text-align: center;;
+  }
 }
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/

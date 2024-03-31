@@ -30,30 +30,36 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
                 </div>
-                <div id="collapsable-nav" class="collapse navbar-collapse">
-                    <ul id="nav-list" class="navbar-nav ms-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="menu-categories.html">
-                                <span class="bi bi-cup"></span><br class="d-none d-md-inline"> Menu
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">
-                                <span class="bi bi-info-circle"></span><br class="d-none d-md-inline"> About
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">
-                                <span class="bi bi-award"></span><br class="d-none d-md-inline"> Awards
-                            </a>
-                        </li>
-                        <li id="phone" class="d-none d-lg-inline">
-                            <a class="nav-link" href="tel:+447983215336">
-                                <span>07983215336</span>
-                            </a><div>* We Deliver</div>
-                        </li>
-                    </ul><!-- #nav-list -->
-                </div><!-- .collapse .navbar-collapse -->
+               <div id="collapsable-nav" class="collapse navbar-collapse">
+  <ul id="nav-list" class="navbar-nav ms-auto">
+    <li class="nav-item active d-sm-none">
+      <a class="nav-link" href="index.html">
+        <span class="bi bi-house-fill"></span> Home
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="menu-categories.html">
+        <span class="bi bi-cup"></span><br class="d-none d-md-inline"> Menu
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">
+        <span class="bi bi-info-circle"></span><br class="d-none d-md-inline"> About
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">
+        <span class="bi bi-award"></span><br class="d-none d-md-inline"> Awards
+      </a>
+    </li>
+    <li id="phone" class="nav-item d-none d-lg-inline">
+      <a class="nav-link" href="tel:+447983215336">
+        <span>07983215336</span>
+      </a>
+      <div>* We Deliver</div>
+    </li>
+  </ul><!-- #nav-list -->
+</div><!-- .collapse .navbar-collapse -->
             </div><!-- .container -->
         </nav><!-- #header-nav -->
     </header>
@@ -80,7 +86,7 @@
             </div>
             <div class="menu-item-price">$10.95<span> (pint)</span> $14.95 <span>(quart)</span></div>
           </div>
-          <div class="menu-item-description col-sm-5">
+          <div class="menu-item-description col-sm-7">
             <h3 class="menu-item-title">Veal with Mixed Vegetables</h3>
             <p class="menu-item-details">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque inventore esse minima incidunt impedit. Asperiores, voluptatem. Sint aspernatur provident, rem odio dolorem eaque voluptatibus modi reprehenderit minima, itaque cupiditate totam.Asperiores, voluptatem. Sint aspernatur provident, rem odio dolorem eaque voluptatibus modi reprehenderit minima, itaque cupiditate totam.Asperiores, voluptatem. Sint aspernatur provident, rem odio dolorem eaque voluptatibus modi reprehenderit minima, itaque cupiditate totam.</p>
           </div>
