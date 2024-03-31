@@ -70,10 +70,10 @@
     </div>
     <div id="xs-deliver" class="text-center d-block d-sm-none">* We Deliver</div>
 
- <div id="main-content" class="container">
-        <div class="jumbotron">
-            <img src="../images/jumbotron_768.jpg" alt="Picture of restaurant" class="img-responsive d-block d-sm-none">
-        </div>
+<div id="main-content" class="container">
+    <div class="jumbotron">
+        <img src="images/jumbotron_768.jpg" alt="Picture of restaurant" class="img-responsive d-block d-sm-none">
+    </div>
         
         <div id="home-tiles" class="row">
             <div class="col-md-4 col-sm-6 col-xs-12">
